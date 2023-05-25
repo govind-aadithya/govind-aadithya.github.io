@@ -26,7 +26,7 @@ My main focus in research are in the areas of,
 2. Multi robot interation
 3. Perception and Planning for mobile robots
 
-
+  |  | 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Legged](https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/Bot.jpg)  |  ![MultiRobot](https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/MultiRobot.jpg) | ![Perceotion and Planning](https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/Perception.jpg)
 *Control and Dynamics of Legged Systems* | *Multi robot interation* | *Perception and Planning for mobile robots*
