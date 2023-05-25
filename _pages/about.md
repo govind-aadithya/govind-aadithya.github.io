@@ -9,6 +9,7 @@ redirect_from:
 ---
 # **About Me**
 ======
+
 I'm currently pursuing Master of Science degree in Mechatronics and Robotics student at New York University.
 
 I love building autonomous systems and making them capable of taking their own decisions by understanding their surroundings. This drove me to explore the field of Industrial Automation during my time at Schneider Electric India Pvt. Ltd. Here, I worked on multiple automation projects that aimed are reduction of mundane and repeatitive tasks. These setups also performed tasks like product testing and data recording which is a crucial part of a manufacturing facility. During this span, I worked with robots like Yaskawa GP-7 (6 Axis Manipulator) and Omron E-Cobra 800 (SCARA Manipulator) for material handling in workcell. 
@@ -19,12 +20,13 @@ Something I'm passionate about apart form the above mentioned is teaching and sh
 
 # My Research Interests
 ======
+
 My main focus in research are in the areas of,
 1. Control and Dynamics of Legged Systems
 2. Multi robot interation
 3. Perception and Planning for mobile robots
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+
+:-------------------------:|:-------------------------:|:-------------------------:
 ![Legged](https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/Bot.jpg)  |  ![MultiRobot](https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/MultiRobot.jpg) | ![Perceotion and Planning](https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/Perception.jpg)
 *Control and Dynamics of Legged Systems* | *Multi robot interation* | *Perception and Planning for mobile robots*
