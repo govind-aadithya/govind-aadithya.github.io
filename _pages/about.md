@@ -20,4 +20,6 @@ My Research Interests
 
 My main focus in research are in the areas of,
  
-<figure><img src="https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/Bot.jpg" width="414" height="500"> <figcaption>Control and Dynamics of Legged Systems</figcaption></figure> <figure><img src="https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/MultiRobot.jpg" width="756" height="500"> <figcaption>Multi robot interation</figcaption></figure>  <figure><img src="https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/Perception.jpg" width="756" height="500"> <figcaption>Perception and Planning for mobile robots</figcaption></figure> 
+<figure><img src="https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/Bot.jpg" width="250" height="300"> <figcaption>Control and Dynamics of Legged Systems</figcaption></figure>
+<figure><img src="https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/MultiRobot.jpg" width="454" height="300"> <figcaption>Multi robot interation</figcaption></figure> 
+<figure><img src="https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/Perception.jpg"> <figcaption>Perception and Planning for mobile robots</figcaption></figure> 
