@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "A look at motion planning for AVs at an intersection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://ieeexplore.ieee.org/document/8569244
+excerpt: 'A look back at different motion planning approaches taken while navigating an intersection.'
+date: 2018-11-04
+venue: '21st International Conference on Intelligent Transportation Systems (ITSC)'
+paperurl: 'https://ieeexplore.ieee.org/document/8569244'
+citation: 'S. Krishnan, R. Govind Aadithya, R. Ramakrishnan, V. Arvindh and K. Sivanathan, "A Look at Motion Planning for AVs at an Intersection," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, USA, 2018, pp. 333-340, doi: 10.1109/ITSC.2018.8569244.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+A look back at different motion planning approaches taken while navigating an intersection.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/8569244)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: S. Krishnan, R. Govind Aadithya, R. Ramakrishnan, V. Arvindh and K. Sivanathan, "A Look at Motion Planning for AVs at an Intersection," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, USA, 2018, pp. 333-340, doi: 10.1109/ITSC.2018.8569244.
