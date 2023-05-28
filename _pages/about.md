@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm currently pursuing Master of Science degree in Mechatronics and Robotics student at New York University.
 
-I love building autonomous systems and making them capable of taking their own decisions by understanding their surroundings. This drove me to explore the field of Industrial Automation during my time at Schneider Electric India Pvt. Ltd. Here, I worked on multiple automation projects that aimed are reduction of mundane and repeatitive tasks. These setups also performed tasks like product testing and data recording which is a crucial part of a manufacturing facility. During this span, I worked with robots like Yaskawa GP-7 (6 Axis Manipulator) and Omron E-Cobra 800 (SCARA Manipulator) for material handling in workcell. 
+I love building autonomous systems and making them capable of taking their own decisions by understanding their surroundings. This drove me to explore the field of Industrial Automation during my time at Schneider Electric India Pvt. Ltd. Here, I worked on multiple automation projects that aimed are reduction of mundane and repeatitive tasks. These setups also performed tasks like product testing and data recording which is a crucial part of a manufacturing facility. During this span, I worked with robots like Yaskawa GP-7 (6 Axis Manipulator) and Omron E-Cobra 800 (SCARA Manipulator) for material handling in worrenderingkcell. 
 
 I completed my Bachelor's of Technology in Mechatronics Engineer at SRM Institute of Science and Technology (SRM University), India. During this period, I was a part of a student research group SRM Team Humanoid where we worked on many projects with the goal of participating in the Robogames competition representing India. We participated thrice when I was a core team member and won several medals.  
 
@@ -20,6 +20,6 @@ My Research Interests
 
 My main focus in research are in the areas of,
  
-<figure><img src="https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/Bot.jpg" width="250" height="300"> <figcaption>Control and Dynamics of Legged Systems</figcaption></figure>
+<figure><img src="./images/Bot.jpg" width="250" height="300"> <figcaption>Control and Dynamics of Legged Systems</figcaption></figure>
 <figure><img src="https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/MultiRobot.jpg" width="454" height="300"> <figcaption>Multi robot interation</figcaption></figure> 
 <figure><img src="https://github.com/govind-aadithya/govind-aadithya.github.io/blob/master/images/Perception.jpg"> <figcaption>Perception and Planning for mobile robots</figcaption></figure> 
