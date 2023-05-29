@@ -20,6 +20,6 @@ My Research Interests
 
 My main focus in research are in the areas of,
  
-<figure><img src="./images/Bot.jpg" width="250" height="300"> <figcaption><p style="font-size: 16;">Control and Dynamics of Legged Systems</p></figcaption></figure>
-<figure><img src="./images/MultiRobot.jpg" width="454" height="300"> <figcaption><p style="font-size: 16;">Multi robot interation<></figcaption></p></figure> 
-<figure><img src="./images/Perception.jpg"> <figcaption><p style="font-size: 16;">Perception and Planning for mobile robots</p></figcaption></figure> 
+<figure><img src="./images/Bot.jpg" width="250" height="300"> <figcaption>Control and Dynamics of Legged Systems</figcaption></figure>
+<figure><img src="./images/MultiRobot.jpg" width="454" height="300"> <figcaption>Multi robot interation</figcaption></figure> 
+<figure><img src="./images/Perception.jpg"> <figcaption>Perception and Planning for mobile robots</figcaption></figure> 
