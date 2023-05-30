@@ -20,7 +20,10 @@ My Research Interests
 
 My main focus in research are in the areas of,
  
-<figure>
+
+{% include image-gallery.html folder="/images/Interests" %} 
+ 
+<!--figure>
   <img src="./images/Bot.jpg"> 
   <figcaption>Control and Dynamics of Legged Systems</figcaption>
 </figure>
@@ -31,4 +34,4 @@ My main focus in research are in the areas of,
 <figure>
   <img src="./images/Perception.jpg"> 
   <figcaption>Perception and Planning for mobile robots</figcaption>
-</figure> 
+</figure--> 
