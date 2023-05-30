@@ -21,11 +21,11 @@ My Research Interests
 My main focus in research are in the areas of,
  
 <figure>
-  <img src="./images/Bot.jpg" width="250" height="300"> 
+  <img src="./images/Bot.jpg"> 
   <figcaption>Control and Dynamics of Legged Systems</figcaption>
 </figure>
 <figure>
-  <img src="./images/MultiRobot.jpg" width="454" height="300"> 
+  <img src="./images/MultiRobot.jpg"> 
   <figcaption>Multi robot interation</figcaption>
 </figure> 
 <figure>
