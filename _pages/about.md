@@ -21,7 +21,7 @@ My Research Interests
 My main focus in research are in the areas of,
  
 
-{% include image-gallery.html folder="images/Interests" %} 
+{% include image-gallery.html folder="./images/Interests" %} 
  
 <!--figure>
   <img src="./images/Bot.jpg"> 
