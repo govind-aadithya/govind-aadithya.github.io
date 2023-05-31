@@ -13,7 +13,7 @@ author_profile: true
 
 {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    {% for post in site.categories[category_name] reversed %}
+    {% for post in site.categories[category_name] %}
       {% include archive-single.html %}
     {% endfor %}
 {% endfor %}
