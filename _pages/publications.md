@@ -18,8 +18,9 @@ author_profile: true
 Patent
 ====
 {% capture filename %}
-{% if filename == 'patent' or filename == 'Patent' %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% if filename == 'patent' or filename == 'Patent' %}
+    {% for post in site.publications reversed %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
+{% endcapture %}
