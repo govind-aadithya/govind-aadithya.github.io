@@ -15,8 +15,8 @@ author_profile: true
   {% capture filename %}
     {% if filename <> 'patent' or filename <> 'Patent' %}
         {% include archive-single.html %}
-      {% endif %}
-   {% endcapture %} 
+    {% endif %}
+  {% endcapture %} 
 {% endfor %}
 
 Patent
