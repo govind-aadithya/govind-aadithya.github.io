@@ -12,19 +12,15 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% capture filename %}
-    {% if filename <> 'patent' or filename <> 'Patent' %}
+    {% if site.collection <> 'patent' or site.collection <> 'Patent' %}
         {% include archive-single.html %}
     {% endif %}
-  {% endcapture %} 
 {% endfor %}
 
 Patent
 ====
 {% for post in site.publications reversed %}
-  {% capture filename %}
-    {% if filename == 'patent' or filename == 'Patent' %}
+    {% if site.collection == 'patent' or site.collection == 'Patent' %}
       {% include archive-single.html %}
     {% endif %}
-  {% endcapture %}
 {% endfor %}
