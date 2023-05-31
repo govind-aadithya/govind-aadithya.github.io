@@ -12,16 +12,16 @@ author_profile: true
 {% include base_path %}
 
 
-{% if site.collection <> 'patent' or site.collection <> 'Patent' %}
+{% for work in site.collection.publications %}
   {% for post in site.publications reversed %}
         {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+{% endfor %}
 
 Patent
 ====
 {% for post in site.publications reversed %}
-    {% if site.collection == 'patent' or site.collection == 'Patent' %}
+    {% if site.collection == 'patent' %}
       {% include archive-single.html %}
     {% endif %}
 {% endfor %}
