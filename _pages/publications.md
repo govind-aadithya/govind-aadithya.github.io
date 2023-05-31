@@ -11,18 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for category in site.categories %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    {% for post in site.categories[category_name] %}
-      {% include archive-single.html %}
-    {% endfor %}
-{% endfor %}
-
-<!--
-{% for category in site.categories %}
-  {% for post in work.publications reversed %}
-        {% include archive-single.html %}
-  {% endfor %}
+{% for post in site.publications reversed %}
+  {% if post.categories == 'publications' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 Patent
@@ -32,4 +24,4 @@ Patent
       {% include archive-single.html %}
     {% endif %}
 {% endfor %}
--->
+
