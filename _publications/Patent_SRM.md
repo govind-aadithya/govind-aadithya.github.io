@@ -1,6 +1,7 @@
 ---
 title: "A System for Decentralized Collision‑Free Navigation of Multiple Robots"
-collection: patent
+collection: publications
+categories: patent
 permalink: 
 excerpt: 'A multi robot system capable of decentralized navigation without collisions with static or dynamic obstacles with the help of onboard sensor and other robot states.'
 date: 2019-05-22
