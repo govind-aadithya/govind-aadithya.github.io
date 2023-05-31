@@ -11,11 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-    {% if site.collection <> 'patent' or site.collection <> 'Patent' %}
+
+{% if site.collection <> 'patent' or site.collection <> 'Patent' %}
+  {% for post in site.publications reversed %}
         {% include archive-single.html %}
-    {% endif %}
-{% endfor %}
+  {% endfor %}
+{% endif %}
 
 Patent
 ====
