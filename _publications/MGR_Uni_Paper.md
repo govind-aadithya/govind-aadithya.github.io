@@ -1,6 +1,7 @@
 ---
 title: "Collision-Free Multi Robot Trajectory Optimization in Unknown Environments using Decentralized Trajectory Planning"
 collection: publications
+categories: publications
 permalink: 
 excerpt: 'A decentralized trajectory planning approach while optimizing for minizing jerk. The approach proposes a safe region formulation that takes into account the static and dynamic obstacles while trajectory optimization.'
 date: 2018-12-10
