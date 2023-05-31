@@ -1,7 +1,7 @@
 ---
 title: "Towards Scalable Continuous‑Time Trajectory Optimization for Multi‑Robot Navigation"
 collection: publications
-categories: publications
+tags: publications
 permalink: 
 excerpt: 'Building on the Collision-Free Multi Robot Trajectory Optimization in Unknown Environments using Decentralized Trajectory Planning work, we extended the framework to account for the interactions like the downwash of the robot, size of the robot, and explicit dynamic collision avoidance with soft constraints while solving for trajectory.'
 date: 2019-10-29
