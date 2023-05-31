@@ -12,15 +12,19 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% capture filename %}
+    {% if filename <> 'patent' or filename <> 'Patent' %}
+        {% include archive-single.html %}
+      {% endif %}
+   {% endcapture %} 
 {% endfor %}
 
 Patent
 ====
-{% capture filename %}
-  {% if filename == 'patent' or filename == 'Patent' %}
-    {% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
+  {% capture filename %}
+    {% if filename == 'patent' or filename == 'Patent' %}
       {% include archive-single.html %}
-    {% endfor %}
-  {% endif %}
-{% endcapture %}
+    {% endif %}
+  {% endcapture %}
+{% endfor %}
