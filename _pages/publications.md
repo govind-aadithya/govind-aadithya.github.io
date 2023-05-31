@@ -22,7 +22,7 @@ Publications
 Patent
 ====
 {% for post in site.publications reversed %}
-    {% if site.collection == 'patent' %}
+    {% if post.collection == "patent" %}
       {% include archive-single.html %}
     {% endif %}
 {% endfor %}
