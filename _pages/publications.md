@@ -13,7 +13,7 @@ author_profile: true
 
 
 {% for work in site.collection.publications %}
-  {% for post in site.publications reversed %}
+  {% for post in work.publications reversed %}
         {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
