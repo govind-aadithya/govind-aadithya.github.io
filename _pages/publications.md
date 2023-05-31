@@ -14,7 +14,7 @@ author_profile: true
 Publications
 ===
 {% for post in site.publications reversed %}
-  {% if post.categories == "publications" %}
+  {% if post.tags == "publications" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -22,7 +22,7 @@ Publications
 Patent
 ====
 {% for post in site.publications reversed %}
-    {% if post.collection == "patent" %}
+    {% if post.tags == "patent" %}
       {% include archive-single.html %}
     {% endif %}
 {% endfor %}
