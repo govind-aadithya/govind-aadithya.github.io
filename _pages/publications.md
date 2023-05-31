@@ -11,8 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+Publications
+===
 {% for post in site.publications reversed %}
-  {% if post.categories == 'publications' %}
+  {% if post.categories == "publications" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
