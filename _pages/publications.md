@@ -14,16 +14,17 @@ author_profile: true
 Publications
 ===
 {% for post in site.publications reversed %}
-  {% if post.tags == "publications" %}
+  <!--{% if post.tags == "publications" %}-->
     {% include archive-single.html %}
-  {% endif %}
+  <!--{% endif %}-->
 {% endfor %}
+
 
 Patent
 ====
-{% for post in site.publications reversed %}
-    {% if post.tags == "patent" %}
-      {% include archive-single.html %}
-    {% endif %}
-{% endfor %}
 
+<!--{% for post in site.publications reversed %}-->
+    <!--{% if post.tags == "patent" %}-->
+      <!--{% include archive-single.html %}-->
+    <!--{% endif %}-->
+<!--{% endfor %}-->
