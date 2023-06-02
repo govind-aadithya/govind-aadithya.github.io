@@ -1,7 +1,7 @@
 ---
 title: "Sharp Shooter"
 excerpt: "Goal of the project was to track an object of specific color and aim to shoot it when it reaches a specific treshold.
-<br/><img src='./images/Sharp_Shooter.jpg'>"
+<br/><img src='/images/Sharp_Shooter.jpg'>"
 collection: portfolio
 ---
 
