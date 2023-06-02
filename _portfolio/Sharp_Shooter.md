@@ -1,16 +1,19 @@
 ---
 title: "Sharp Shooter"
 excerpt: 'Goal of the project was to track an object of specific color and aim to shoot it when it reaches a specific treshold.
-<br/><iframe width="560" height="315" src="https://www.youtube.com/embed/BUanlEODqq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+<br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/BUanlEODqq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>'
 collection: portfolio
 ---
 
 Hardware used
 ===
-Robotis Bioloid GP 
-Dart/Nurf gun
-Logitech camera
-Robotis Servos
+1. Robotis Bioloid GP 
+
+2. Dart/Nurf gun
+
+3. Logitech camera
+
+4. Robotis Servos
 
 About the project
 ===
