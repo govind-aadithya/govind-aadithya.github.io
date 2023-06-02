@@ -8,8 +8,10 @@ excerpt_seperator: "<!--more-->"
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% for post in site.portfolio reversed %}
+    {% include archive-single.html %}
 {% endfor %}
 
+<!--{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}-->
