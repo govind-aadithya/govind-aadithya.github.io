@@ -13,7 +13,8 @@ Hardware used
 
 About the project
 ===
-With the goal of developing an assitive technology for severly disabled, we developed a 6-DOF Robotic arm with inverse kinematic controller. To enable user to control the same a pupil tracking algorithm was developed which is used to provide directional and motion command to the hand. As a proof of concept we used it to manipulate a bottle as shown in the image.  
+With the goal of developing an assitive technology for severly disabled, we, at SRM Team Humanoid, developed a 6-DOF Robotic arm with inverse kinematic controller. To enable user to control the same, a pupil tracking algorithm was developed using Computer Vision which is used to provide directional and motion command to the hand. As a proof of concept we used it to manipulate a bottle as shown in the image.  
+
 <img src='/images/Helping_hand.jpg'>
 
 
