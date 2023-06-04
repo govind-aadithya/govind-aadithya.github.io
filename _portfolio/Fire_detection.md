@@ -1,6 +1,6 @@
 ---
 title: "Fire Detector"
-excerpt: "The aim of the project was to develop a Computer Vision algorithm to detect fire from video feed. This can be used in public places with surveillance cameras to monitor and notify any cases of fire breakout. <br/><br/><img src='/images/Pupil_tracking_helping_hand.jpg'>"
+excerpt: "The aim of the project was to develop a Computer Vision algorithm to detect fire from video feed. This can be used in public places with surveillance cameras to monitor and notify any cases of fire breakout. <br/><br/><img src='/images/Fire_Detection.jpg'>"
 date: 2016-03-10
 collection: portfolio
 ---
