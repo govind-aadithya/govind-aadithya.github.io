@@ -14,5 +14,5 @@ About the project
 ===
 In order to get exposed to robotic operations, during our induction training, we were asked to build a robotic system for any application. We chose to build a 6DOF arm (3D Printed) for fastening application. The project was an open loop implementation with no sensors to detect tightening torque or head engaement with fastners. Also, given that the servo motors rotate only 180 degrees, we perform the fastening in parts. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hm-Vrb0lZRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QfnsP2IQo-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
