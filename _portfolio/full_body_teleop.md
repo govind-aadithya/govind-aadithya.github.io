@@ -1,6 +1,6 @@
 ---
 title: "Full-body Shadowing"
-excerpt: "Building on the upper body teleop project, an attempt to track the whole upper body was done and the joint angles were replicated by the robot to shadow the operator. <br/><br/><img src='/images/ATHum.jpg'>"
+excerpt: "Building on the upper body teleop project, an attempt to track the whole upper body was done and the joint angles were replicated by the robot to shadow the operator. <br/><br/><img src='/images/Shadow.jpg'>"
 date: 2017-05-14
 collection: portfolio
 ---
