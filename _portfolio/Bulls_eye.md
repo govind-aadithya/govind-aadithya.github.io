@@ -1,6 +1,6 @@
 ---
 title: "Bull's Eye - Portable Corneal Topographer"
-excerpt: "A portable corneal topographer to increase the accessibility of eyecare in rural areas. The objective was to develop a surface map of the cornea to map out the surface irregularities. <br/><br/><img src='/images/Input_Reflection.jpg'>"
+excerpt: "A portable corneal topographer to increase the accessibility of eyecare in rural areas. The objective was to develop a surface map of the cornea to map out the surface irregularities."
 date: 2017-11-08
 collection: portfolio
 ---
