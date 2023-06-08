@@ -21,8 +21,8 @@ Publications
 Patent
 ====
 
-<!--{% for post in site.publications reversed %}
+{% for post in site.publications %}
     {% if post.tags == "patent" %}
       {% include archive-single.html %}
     {% endif %}
-{% endfor %}-->
+{% endfor %}
