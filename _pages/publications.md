@@ -21,8 +21,15 @@ Publications
 Patent
 ====
 
-{% for post in site.publications %}
+{% for tag in site.tags %}
+<h2>{{ tag[0] }}</h2>
+  {% for post in tag[1] %}
+    {% include archive-single.html %}      
+  {% endfor %}
+{% endfor %}
+
+<!--{% for post in site.publications %}
     {% if post.tags == "patent" %}
       {% include archive-single.html %}
     {% endif %}
-{% endfor %}
+{% endfor %}-->
