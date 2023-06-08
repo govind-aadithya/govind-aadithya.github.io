@@ -23,8 +23,10 @@ Patent
 
 {% for post in site.publications %}
   {% for tag in post.tags %}
-    {{tag}}
-    {% include archive-single.html %}      
+    {% if tag == "patent" %}
+      {{tag}}
+      {% include archive-single.html %}      
+    {% endif %}
   {% endfor %}
 {% endfor %}
 
