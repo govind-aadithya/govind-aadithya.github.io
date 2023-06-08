@@ -21,7 +21,7 @@ Publications
 Patent
 ====
 
-{% for tag in site.publications %}
+{% for tag in site.publications.tags %}
   <h2>{{ tag }}</h2>
   {% for post in tag %}
     {% include archive-single.html %}      
