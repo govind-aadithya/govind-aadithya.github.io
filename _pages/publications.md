@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: 
 permalink: /research/
 author_profile: true
 ---
@@ -13,9 +13,18 @@ author_profile: true
 
 Publications
 ===
-{% for post in site.publications reversed %}
-    {% include archive-single.html %}
+
+{% for post in site.publications %}
+  {% for tag in post.tags %}
+    {% if tag == "publications" %}
+      {% include archive-single.html %}      
+    {% endif %}
+  {% endfor %}
 {% endfor %}
+
+<!--{% for post in site.publications reversed %}
+    {% include archive-single.html %}
+{% endfor %}-->
 
 
 Patent
@@ -24,7 +33,6 @@ Patent
 {% for post in site.publications %}
   {% for tag in post.tags %}
     {% if tag == "patent" %}
-      {{tag}}
       {% include archive-single.html %}      
     {% endif %}
   {% endfor %}
