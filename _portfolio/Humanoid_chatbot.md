@@ -10,7 +10,7 @@ Hardware
 1. Robotis Darwin OP2
 2. Mini Speakers
 3. Michrophones
-4. Onboard Processoe - Raspberry Pi 3B
+4. Onboard Processor - Raspberry Pi 3B
 
 About the project
 ===
