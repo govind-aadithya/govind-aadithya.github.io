@@ -8,6 +8,7 @@ collection: portfolio
 Hardware
 ===
 1. Dynamixel MX-28
+2. Onboard processor - Odroid XU4 
 
 About the project
 ===
