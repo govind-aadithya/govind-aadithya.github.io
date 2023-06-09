@@ -1,6 +1,6 @@
 ---
 title: "Shop floor AGV - Automated Widget mover"
-excerpt: "An Automated Ground Vehicle made to explore a pre-defined shopfloor layout with dynamic obstacles and locate widgets and navigate to it's end postion indiacating the POC of transporting the widget. <br/><br/><img src='/images/Charlie_Darwin.jpg'>"
+excerpt: "An Automated Ground Vehicle made to explore a pre-defined shopfloor layout with dynamic obstacles and locate widgets and navigate to it's end postion indiacating the POC of transporting the widget. <br/><br/><img src='/images/AStar.jpeg'>"
 date: 2023-04-20
 collection: portfolio
 ---
