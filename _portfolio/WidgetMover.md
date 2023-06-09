@@ -19,5 +19,3 @@ The main highlight of the project is the implementation of Dynamic A-Star algori
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_2NTl6i4DrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 More detailed breakdown of the project can be found in the repository [here](https://github.com/ashiqrahmana/WidgetMover-Autonomous-Guided-Vehicle-for-Efficient-Factory-Operations).
-
-More detailed breakdown of embedded C implementation of A-Star Algorithm can be found in the repository [here]().
