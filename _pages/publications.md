@@ -11,23 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Publications
-===
-
-{% for post in site.publications %}
-  {% for tag in post.tags %}
-    {% if tag == "publications" %}
-      {% include archive-single.html %}      
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-
-<!--{% for post in site.publications reversed %}
-    {% include archive-single.html %}
-{% endfor %}-->
-
-
-
 Patent
 ====
 
@@ -39,8 +22,26 @@ Patent
   {% endfor %}
 {% endfor %}
 
-<!--{% for post in site.publications %}
-    {% if post.tags == "patent" %}
-      {% include archive-single.html %}
+
+Publications
+===
+
+{% for post in site.publications %}
+  {% for tag in post.tags %}
+    {% if tag == "publications" %}
+      {% include archive-single.html %}      
     {% endif %}
-{% endfor %}-->
+  {% endfor %}
+{% endfor %}
+
+
+Unpublished Works
+===
+
+{% for post in site.publications %}
+  {% for tag in post.tags %}
+    {% if tag == "unpublished" %}
+      {% include archive-single.html %}      
+    {% endif %}
+  {% endfor %}
+{% endfor %}
