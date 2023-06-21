@@ -4,7 +4,7 @@ collection: publications
 tags: unpublished
 permalink: 
 excerpt: 'Designed a reactive control using a PID controller for the ankle motors to increase robot stability.'
-date: 
+date: 2016-06-12
 venue: 
 paperurl: 
 citation: 
