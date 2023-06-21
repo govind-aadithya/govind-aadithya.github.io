@@ -4,10 +4,10 @@ collection: publications
 tags: unpublished
 permalink: 
 excerpt: 'An inverse kinematic-based algorithm to generate a smooth walkcycle.'
-date: 
-venue: 
-paperurl: 
-citation: 
+date: 2016-06-12
+venue: ''
+paperurl: ''
+citation: ''
 ---
 Built an Inverse kinematic-based algorithm for a Humanoid walkcycle leveraging the concept of Zero Moment Point (ZMP) and generated a smooth trajectory for the swing phase.
 
