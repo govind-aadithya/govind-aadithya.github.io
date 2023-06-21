@@ -1,9 +1,9 @@
 ---
-title: "Reactive Control using PID"
+title: "Reactive Control for a Humanoid using PID control"
 collection: publications
 tags: unpublished
 permalink: 
-excerpt: 'Designed a reactive control using a PID controller for the ankle motors to increase robot stability.'
+excerpt: 'Designed a reactive control for Humanoid using a PID controller for the ankle motors to increase robot stability.'
 date: 2016-06-12
 venue: 
 paperurl: 
