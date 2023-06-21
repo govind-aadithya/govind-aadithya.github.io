@@ -4,7 +4,7 @@ collection: publications
 tags: unpublished
 permalink: 
 excerpt: 'An inverse kinematic-based algorithm to generate a smooth walkcycle.'
-date: 2016-06-12
+date: 2017-08-12
 venue: 
 paperurl: 
 citation: 
