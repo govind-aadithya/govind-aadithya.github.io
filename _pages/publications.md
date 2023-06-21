@@ -41,7 +41,7 @@ Unpublished Works
 {% for post in site.publications %}
   {% for tag in post.tags %}
     {% if tag == "unpublished" %}
-      {% include archive-single.html %}      
+      {% include archive_single_unpub.html %}      
     {% endif %}
   {% endfor %}
 {% endfor %}
