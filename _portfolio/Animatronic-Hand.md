@@ -1,7 +1,7 @@
 ---
 title: "Animatronic Hand: A Tele-operation Prototype"
 excerpt: "An Animetronic Hand that mimics hand gestures via remote actuation commands. Done during the NJIT Hardware Hackathon, "Byte into Hardware". <br/><br/><img src='/images/Archi.png' height='300'>"
-date: 2023-04-20
+date: 2023-04-01
 collection: portfolio
 ---
 
