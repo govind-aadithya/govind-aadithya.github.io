@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently pursuing a Master of Science degree in Mechatronics and Robotics student at New York University. I'm currently working at the [Applied Dynamics and Optimization Lab](https://wp.nyu.edu/adol/) for my master's thesis collaborating with [Dr Joo H. Kim](https://engineering.nyu.edu/faculty/joo-h-kim). My current research is on servo motor energy consumption estimation and modelling for energetics analysis. I'm also developing a simulation environment using MuJoCo Simulator for the Robotis OP3 robot simulation.
+I'm currently pursuing a Master of Science degree in Mechatronics and Robotics student at New York University. I'm currently working at the [Applied Dynamics and Optimization Lab](https://wp.nyu.edu/adol/) for my master's thesis collaborating with [Dr. Joo H. Kim](https://engineering.nyu.edu/faculty/joo-h-kim). My current research is on servo motor energy consumption estimation and modelling for energetics analysis. I'm also developing a simulation environment using MuJoCo Simulator for the Robotis OP3 robot simulation.
 
 I completed my Bachelor of Technology in Mechatronics Engineering at SRM Institute of Science and Technology (SRM University), India. During this period, I was part of a student research group SRM Team Humanoid where we worked on many projects with the goal of participating in the Robogames competition representing India on an international scale. We participated thrice when I was a core team member and won several medals.  
 
