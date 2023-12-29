@@ -24,4 +24,4 @@ To complete the loop, we used a logitech webcam to provide a video feed to the u
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sb4F23Tmr3c?si=DhgsqGnh2qYovL29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-More detailed breakdown of the project can be found in the repository [here](https://https://github.com/govind-aadithya/Animetronic-Hand).
+More detailed breakdown of the project can be found in the repository [here](https://github.com/govind-aadithya/Animetronic-Hand).
