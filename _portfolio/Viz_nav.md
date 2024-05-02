@@ -1,7 +1,7 @@
 ---
 title: "Embodied AI and Visual Navigation challenge"
 excerpt: "Graph SLAM and VPR algorithm from scratch to perform visual navigation to a given First Person View scene in an unfamiliar environment. <br/><br/><img src='/images/maze_robot.gif' height='100'>"
-date: 2023-04-01
+date: 2023-12-01
 collection: portfolio
 ---
 
