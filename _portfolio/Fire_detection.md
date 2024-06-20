@@ -7,8 +7,8 @@ collection: portfolio
 
 About the project
 ===
-This project aimed at developing a safety system that monitor fire break out from survilance cameras and warns the security and other emergency systems to take the necessary safety actions. The project was executed using computer vision using OpenCV-Python. 
+This project aimed at developing a safety system that monitors fire breakouts from surveillance cameras and warns the security and other emergency systems to take the necessary safety actions. The project was executed using computer vision using OpenCV-Python. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hm-Vrb0lZRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The approach taken uses converting the color space to YUV and uses channel thresholding to extract the ROI related to "fire". Since this is a stand alone computer vision approach, this may have false positives. So, it has to be coupled with physical sesors to reinforce the warning.
+The approach taken uses converting the color space to YUV and uses channel thresholding to extract the ROI related to "fire". Since this is a stand-alone computer vision approach, this may have false positives. So, it has to be coupled with physical sensors to reinforce the warning.
