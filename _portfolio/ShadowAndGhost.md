@@ -12,7 +12,7 @@ Hardware
 
 About the project
 ===
-We created 2 customized replicas of Robotis OP3 which used a MX-28 motor in place of the MX-106. The complete bot was made of Alluminum sheet laser cut as per the modified CAD model.
+We created 2 customized replicas of Robotis OP3 which used a MX-28 motor in place of the MX-106. The complete bot was made of aluminum sheet laser cut as per the modified CAD model.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D1_2D2RZFw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
