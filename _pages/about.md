@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently pursuing a Master of Science degree in Mechatronics and Robotics student at New York University. I'm currently working at the [Applied Dynamics and Optimization Lab](https://wp.nyu.edu/adol/) for my master's thesis collaborating with [Dr. Joo H. Kim](https://engineering.nyu.edu/faculty/joo-h-kim). My current work is to build a simulation package using MuJoCo physics engine for the Robotis OP3 robot which is compatible with Robotis' ROS framework and integratable with the sparse trajectory optimization framework using B-Spline-based trajectory discretization. 
+I'm a recent graduate from New York University with a Master of Science degree in Mechatronics and Robotics. I'm currently working as a Research Affiliate at the [Applied Dynamics and Optimization Lab](https://wp.nyu.edu/adol/) thesis collaborating with [Dr. Joo H. Kim](https://engineering.nyu.edu/faculty/joo-h-kim). I'm currently working on developing a data capture and state estimation pipeline using VICON for our Robotis OP3 humanoid robot. Parallely, I'm also working on deep reinforcement learning (DRL) based control strategies for task-based locomotion to expose myself to state-of-the-art DRL strategies.   
 
 I completed my Bachelor of Technology in Mechatronics Engineering at SRM Institute of Science and Technology (SRM University), India. During this period, I was part of a student research group SRM Team Humanoid where we worked on many projects intending to participate in the Robogames competition representing India on an international scale. We participated thrice when I was a core team member and won several medals.  
 
