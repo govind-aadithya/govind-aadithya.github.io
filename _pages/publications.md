@@ -35,6 +35,17 @@ Publications
 {% endfor %}
 
 
+Thesis
+===
+
+{% for post in site.publications %}
+  {% for tag in post.tags %}
+    {% if tag == "thesis" %}
+      {% include archive-single.html %}      
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
 Unpublished Works
 ===
 
